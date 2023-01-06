@@ -22,7 +22,7 @@ import (
 	"github.com/jackc/pgx/v4/pgxpool"
 	"github.com/jackc/pgx/v4"
 	
-	"github.com/dronM/session"
+	"github.com/dronm/session"
 )
 
 // Session key ID length.

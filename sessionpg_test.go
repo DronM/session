@@ -13,8 +13,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/dronM/session"      //session manager
-	_ "github.com/dronM/session/pg" //postgresql session provider
+	"github.com/dronm/session"      //session manager
+	_ "github.com/dronm/session/pg" //postgresql session provider
 
 	"github.com/jackc/pgx/v4/pgxpool"
 )
